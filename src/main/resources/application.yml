@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    include: secret
+
+  datasource:
+    url: jdbc:mysql://localhost/DemomybatisDB

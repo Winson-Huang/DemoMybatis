@@ -1,3 +1,7 @@
+# my
+application-secret.yml
+
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
